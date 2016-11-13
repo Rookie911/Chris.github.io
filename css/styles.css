@@ -1,0 +1,74 @@
+* {
+  background-color: black;
+}
+
+h1 {
+  color: black;
+  background-color: green;
+}
+
+.first-anchor {
+  color: green;
+  background-color: black;
+}
+
+.second-anchor {
+  color: green;
+  background-color: black;
+}
+
+.third-anchor {
+  color: green;
+  background-color: black;
+}
+
+.fourth-anchor {
+  color: green;
+  background-color: black;
+}
+
+.bullets {
+  padding: 0;
+}
+
+.paragraph-one {
+  color: green;
+  font-size: 22;
+  margin: center;
+  text-align: center;
+}
+
+.paragraph-two {
+  color: black;
+  background-color: green;
+}
+
+footer {
+  background-color: green;
+  color: black;
+  text-align: center;
+}
+
+header {
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+  padding: 10px;
+  color: black;
+  background-color: black;
+}
+
+img {
+  width: 100%;
+}
+
+.center {
+  margin: 0 auto;
+  width: 50%;
+}
+
+nav {
+  text-align: center;
+}
